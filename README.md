@@ -1,10 +1,10 @@
 #Oracle APEX Application - DynamiQ
-#User difined query engine
-#
+User difined query engine
+
 ##Feautures
-# - User difined query with parameters
-# - Direct download result file
-# - Output formats (XLS, DOC, CSV, Direct Interactive report)
+ - User difined query with parameters
+ - Direct download result file
+ - Output formats (XLS, DOC, CSV, Direct Interactive report)
  
 
 ##Changelog
