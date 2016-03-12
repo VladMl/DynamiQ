@@ -6,6 +6,8 @@ User difined  DB query engine
  - Direct download result file
  - Output formats (XLS, DOC, CSV, Direct Interactive report)
  
+Tutorial video
+https://www.youtube.com/watch?v=YJOYRmCohzc 
 
 ##Changelog
 ####1.0.0 - Initial Release
