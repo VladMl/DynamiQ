@@ -1,5 +1,5 @@
 #Oracle APEX Application - DynamiQ
-User difined query engine
+User difined  DB query engine
 
 ##Feautures
  - User difined query with parameters
