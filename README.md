@@ -12,10 +12,7 @@ https://www.youtube.com/watch?v=YJOYRmCohzc
 Demo
 https://apex.oracle.com/pls/apex/f?p=23663
 
-<<<<<<< HEAD
 
-=======
->>>>>>> cc016f88c6f0d9da2d6dcda00aa1991d3d7b8dd1
 ##Changelog
 ####1.0.0 - Initial Release
 
@@ -23,4 +20,4 @@ https://apex.oracle.com/pls/apex/f?p=23663
 - Run database script "db.sql" from script directory.
 - Import app file "dynamiq.sql" into your application
 
----
+
